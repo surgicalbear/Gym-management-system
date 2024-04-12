@@ -36,6 +36,11 @@ user=postgres
 password=<>
 port=5432
 ```
-In the `database.ini` file, you need to replace the `<>` with your username and password. To run the program execute the command `python main.py` in the terminal
+In the `database.ini` file, you need to replace the `<>` with your username and password. 
+#### Running the program
+To run the program execute the following command in the terminal:
+```
+python main.py
+```
 
 
