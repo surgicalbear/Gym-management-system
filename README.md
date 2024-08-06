@@ -1,7 +1,4 @@
-## COMP 3005 Project: Health and Fitness Club Management System
-
-### Group Members
-+ Eryk Sadelski
+Health and Fitness Club Management System
 
 ### Requirements
 
